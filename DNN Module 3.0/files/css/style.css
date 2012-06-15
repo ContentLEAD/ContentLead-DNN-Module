@@ -1,0 +1,51 @@
+ .boolTrue
+    {
+        font-weight: bold;
+        color: Green;
+    }
+    .boolFalse
+    {
+        font-weight: bold;
+        color: Red;
+    }
+	
+	 .permissions
+    {
+     color:#10a845;   
+    }
+    
+    .IDs
+    {
+        font-weight: bold;
+    }
+    #checks p
+    {
+        padding-left: 15px;
+    }
+    #ready
+    {
+        font-weight: bold;
+    }
+    .error
+    {
+        color: Red;
+        font-weight: bold;
+        font-size: large;
+    }
+    #nowImporting
+    {
+        color: Green;
+        font-weight: bold;
+        font-size: large;
+    }
+    
+ #updateBack {
+  background-color:#CF4342;
+   color:#fff;
+   width:80px;
+ }
+
+#UpdateProgress1 img {
+   vertical-align:middle;
+   margin:2px;
+ }
